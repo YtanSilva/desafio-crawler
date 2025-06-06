@@ -1,8 +1,15 @@
 from core.driver_manager import DriverManager
 from scrapers.imdb_ranking_scraper import IMDBScraper
+from config.logging.logger import setup_logging
 import time
+import logging
 
 def main():
+    setup_logging(
+        app_name='scraper',
+        log_level='INFO'
+     )
+    logger = logging.getLogger(__name__)
 
     driver = None
     try:
@@ -10,18 +17,15 @@ def main():
         scraper = IMDBScraper(driver)
         
         movies = scraper.scrape_ranking()
-        print(f"Successfully scraped {len(movies)} movies")
-        
-        # Here you could add code to save the movies to a file/database
-        # using functions from utils.storage
+        logger.info(f"Successfully scraped {len(movies)} movies")
         
     except Exception as e:
-        print(f"Application error: {e}")
+        logger.error(f"Application error: {e}")
     finally:
         if driver:
-            time.sleep(2)  # Final pause for visualization
+            time.sleep(2)
             driver.quit()
-            print("Browser closed")
+            logger.info("Browser closed")
 
 if __name__ == "__main__":
     main()
