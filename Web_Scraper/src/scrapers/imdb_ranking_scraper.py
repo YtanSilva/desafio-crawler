@@ -46,7 +46,7 @@ class IMDBScraper:
             duration = self._get_element_text(movie_element, "div.cli-title-metadata span:nth-child(2)")
             pg = self._get_element_text(movie_element, "div.cli-title-metadata span:nth-child(3)")
             
-            logger.info(f"Processed movie {index}: {title}")
+            # logger.info(f"Processed movie {index}: {title}")
             
             return Movie(
                 title=title,
