@@ -66,8 +66,8 @@ class IMDBScraper:
             )
             url = url.get_attribute('href') if url else 'N/A'
             
-            # if logger.isEnabledFor(logging.INFO):
-            #     logger.info(f"Processed movie {index}: {title}")
+            if logger.isEnabledFor(logging.INFO):
+                logger.info(f"Processed movie {index}: {title}")
             
             return Movie(
                 title=title,
