@@ -8,3 +8,5 @@ class Movie:
     year: str
     duration: str
     pg: str
+    rating: str
+    url: str

@@ -20,7 +20,7 @@ def main():
         movies = scraper.scrape_ranking()
         logger.info(f"Successfully scraped {len(movies)} movies")
         
-        export_movies_to_file(movies, 'data', file_format='json')
+        export_movies_to_file(movies, 'data', file_format='both')
     except Exception as e:
         logger.error(f"Application error: {e}")
     finally:
