@@ -1,0 +1,2002 @@
+[
+    {
+        "title": "Um Sonho de Liberdade",
+        "year": "1994",
+        "duration": "2h 22m",
+        "pg": "16",
+        "rating": "9,3",
+        "url": "https://www.imdb.com/pt/title/tt0111161/?ref_=chttp_t_1"
+    },
+    {
+        "title": "O Poderoso Chefão",
+        "year": "1972",
+        "duration": "2h 55m",
+        "pg": "14",
+        "rating": "9,2",
+        "url": "https://www.imdb.com/pt/title/tt0068646/?ref_=chttp_t_2"
+    },
+    {
+        "title": "Batman: O Cavaleiro das Trevas",
+        "year": "2008",
+        "duration": "2h 32m",
+        "pg": "12",
+        "rating": "9,0",
+        "url": "https://www.imdb.com/pt/title/tt0468569/?ref_=chttp_t_3"
+    },
+    {
+        "title": "O Poderoso Chefão: Parte II",
+        "year": "1974",
+        "duration": "3h 22m",
+        "pg": "14",
+        "rating": "9,0",
+        "url": "https://www.imdb.com/pt/title/tt0071562/?ref_=chttp_t_4"
+    },
+    {
+        "title": "12 Homens e uma Sentença",
+        "year": "1957",
+        "duration": "1h 36m",
+        "pg": "Livre",
+        "rating": "9,0",
+        "url": "https://www.imdb.com/pt/title/tt0050083/?ref_=chttp_t_5"
+    },
+    {
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "year": "2003",
+        "duration": "3h 21m",
+        "pg": "12",
+        "rating": "9,0",
+        "url": "https://www.imdb.com/pt/title/tt0167260/?ref_=chttp_t_6"
+    },
+    {
+        "title": "A Lista de Schindler",
+        "year": "1993",
+        "duration": "3h 15m",
+        "pg": "14",
+        "rating": "9,0",
+        "url": "https://www.imdb.com/pt/title/tt0108052/?ref_=chttp_t_7"
+    },
+    {
+        "title": "Pulp Fiction: Tempo de Violência",
+        "year": "1994",
+        "duration": "2h 34m",
+        "pg": "18",
+        "rating": "8,9",
+        "url": "https://www.imdb.com/pt/title/tt0110912/?ref_=chttp_t_8"
+    },
+    {
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "year": "2001",
+        "duration": "2h 58m",
+        "pg": "12",
+        "rating": "8,9",
+        "url": "https://www.imdb.com/pt/title/tt0120737/?ref_=chttp_t_9"
+    },
+    {
+        "title": "Três Homens em Conflito",
+        "year": "1966",
+        "duration": "2h 41m",
+        "pg": "14",
+        "rating": "8,8",
+        "url": "https://www.imdb.com/pt/title/tt0060196/?ref_=chttp_t_10"
+    },
+    {
+        "title": "Forrest Gump: O Contador de Histórias",
+        "year": "1994",
+        "duration": "2h 22m",
+        "pg": "14",
+        "rating": "8,8",
+        "url": "https://www.imdb.com/pt/title/tt0109830/?ref_=chttp_t_11"
+    },
+    {
+        "title": "O Senhor dos Anéis: As Duas Torres",
+        "year": "2002",
+        "duration": "2h 59m",
+        "pg": "12",
+        "rating": "8,8",
+        "url": "https://www.imdb.com/pt/title/tt0167261/?ref_=chttp_t_12"
+    },
+    {
+        "title": "Clube da Luta",
+        "year": "1999",
+        "duration": "2h 19m",
+        "pg": "18",
+        "rating": "8,8",
+        "url": "https://www.imdb.com/pt/title/tt0137523/?ref_=chttp_t_13"
+    },
+    {
+        "title": "A Origem",
+        "year": "2010",
+        "duration": "2h 28m",
+        "pg": "14",
+        "rating": "8,8",
+        "url": "https://www.imdb.com/pt/title/tt1375666/?ref_=chttp_t_14"
+    },
+    {
+        "title": "Star Wars: Episódio V - O Império Contra-Ataca",
+        "year": "1980",
+        "duration": "2h 4m",
+        "pg": "Livre",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0080684/?ref_=chttp_t_15"
+    },
+    {
+        "title": "Matrix",
+        "year": "1999",
+        "duration": "2h 16m",
+        "pg": "14",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0133093/?ref_=chttp_t_16"
+    },
+    {
+        "title": "Os Bons Companheiros",
+        "year": "1990",
+        "duration": "2h 25m",
+        "pg": "14",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0099685/?ref_=chttp_t_17"
+    },
+    {
+        "title": "Interestelar",
+        "year": "2014",
+        "duration": "2h 49m",
+        "pg": "10",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0816692/?ref_=chttp_t_18"
+    },
+    {
+        "title": "Um Estranho no Ninho",
+        "year": "1975",
+        "duration": "2h 13m",
+        "pg": "16",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0073486/?ref_=chttp_t_19"
+    },
+    {
+        "title": "Seven - Os Sete Crimes Capitais",
+        "year": "1995",
+        "duration": "2h 7m",
+        "pg": "14",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0114369/?ref_=chttp_t_20"
+    },
+    {
+        "title": "A Felicidade Não se Compra",
+        "year": "1946",
+        "duration": "2h 10m",
+        "pg": "Livre",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0038650/?ref_=chttp_t_21"
+    },
+    {
+        "title": "O Silêncio dos Inocentes",
+        "year": "1991",
+        "duration": "1h 58m",
+        "pg": "14",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0102926/?ref_=chttp_t_22"
+    },
+    {
+        "title": "Os Sete Samurais",
+        "year": "1954",
+        "duration": "3h 27m",
+        "pg": "10",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0047478/?ref_=chttp_t_23"
+    },
+    {
+        "title": "O Resgate do Soldado Ryan",
+        "year": "1998",
+        "duration": "2h 49m",
+        "pg": "14",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0120815/?ref_=chttp_t_24"
+    },
+    {
+        "title": "Cidade de Deus",
+        "year": "2002",
+        "duration": "2h 10m",
+        "pg": "18",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0317248/?ref_=chttp_t_25"
+    },
+    {
+        "title": "À Espera de um Milagre",
+        "year": "1999",
+        "duration": "3h 9m",
+        "pg": "18",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0120689/?ref_=chttp_t_26"
+    },
+    {
+        "title": "A Vida é Bela",
+        "year": "1997",
+        "duration": "1h 56m",
+        "pg": "Livre",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0118799/?ref_=chttp_t_27"
+    },
+    {
+        "title": "O Exterminador do Futuro 2: O Julgamento Final",
+        "year": "1991",
+        "duration": "2h 17m",
+        "pg": "14",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0103064/?ref_=chttp_t_28"
+    },
+    {
+        "title": "Star Wars: Episódio IV - Uma Nova Esperança",
+        "year": "1977",
+        "duration": "2h 1m",
+        "pg": "10",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0076759/?ref_=chttp_t_29"
+    },
+    {
+        "title": "De Volta para o Futuro",
+        "year": "1985",
+        "duration": "1h 56m",
+        "pg": "Livre",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0088763/?ref_=chttp_t_30"
+    },
+    {
+        "title": "A Viagem de Chihiro",
+        "year": "2001",
+        "duration": "2h 4m",
+        "pg": "Livre",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0245429/?ref_=chttp_t_31"
+    },
+    {
+        "title": "O Pianista",
+        "year": "2002",
+        "duration": "2h 30m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0253474/?ref_=chttp_t_32"
+    },
+    {
+        "title": "Gladiador",
+        "year": "2000",
+        "duration": "2h 35m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0172495/?ref_=chttp_t_33"
+    },
+    {
+        "title": "Parasita",
+        "year": "2019",
+        "duration": "2h 12m",
+        "pg": "16",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt6751668/?ref_=chttp_t_34"
+    },
+    {
+        "title": "Psicose",
+        "year": "1960",
+        "duration": "1h 49m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0054215/?ref_=chttp_t_35"
+    },
+    {
+        "title": "O Rei Leão",
+        "year": "1994",
+        "duration": "1h 28m",
+        "pg": "Livre",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0110357/?ref_=chttp_t_36"
+    },
+    {
+        "title": "Túmulo dos Vagalumes",
+        "year": "1988",
+        "duration": "1h 28m",
+        "pg": "12",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0095327/?ref_=chttp_t_37"
+    },
+    {
+        "title": "Os Infiltrados",
+        "year": "2006",
+        "duration": "2h 31m",
+        "pg": "18",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0407887/?ref_=chttp_t_38"
+    },
+    {
+        "title": "Whiplash: Em Busca da Perfeição",
+        "year": "2014",
+        "duration": "1h 46m",
+        "pg": "12",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt2582802/?ref_=chttp_t_39"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "duration": "2h 13m",
+        "pg": "16",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt0056058/?ref_=chttp_t_40"
+    },
+    {
+        "title": "O Grande Truque",
+        "year": "2006",
+        "duration": "2h 10m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0482571/?ref_=chttp_t_41"
+    },
+    {
+        "title": "A Outra História Americana",
+        "year": "1998",
+        "duration": "1h 59m",
+        "pg": "16",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0120586/?ref_=chttp_t_42"
+    },
+    {
+        "title": "O Profissional",
+        "year": "1994",
+        "duration": "1h 50m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0110413/?ref_=chttp_t_43"
+    },
+    {
+        "title": "Homem-Aranha: Através do Aranhaverso",
+        "year": "2023",
+        "duration": "2h 20m",
+        "pg": "10",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt9362722/?ref_=chttp_t_44"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "duration": "1h 42m",
+        "pg": "Livre",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0034583/?ref_=chttp_t_45"
+    },
+    {
+        "title": "Os Suspeitos",
+        "year": "1995",
+        "duration": "1h 46m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0114814/?ref_=chttp_t_46"
+    },
+    {
+        "title": "Intocáveis",
+        "year": "2011",
+        "duration": "1h 52m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt1675434/?ref_=chttp_t_47"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "duration": "2h 54m",
+        "pg": "10",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0095765/?ref_=chttp_t_48"
+    },
+    {
+        "title": "Alien - O 8º Passageiro",
+        "year": "1979",
+        "duration": "1h 57m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0078748/?ref_=chttp_t_49"
+    },
+    {
+        "title": "Tempos Modernos",
+        "year": "1936",
+        "duration": "1h 27m",
+        "pg": "Livre",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0027977/?ref_=chttp_t_50"
+    },
+    {
+        "title": "Janela Indiscreta",
+        "year": "1954",
+        "duration": "1h 52m",
+        "pg": "12",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0047396/?ref_=chttp_t_51"
+    },
+    {
+        "title": "Era uma Vez no Oeste",
+        "year": "1968",
+        "duration": "2h 46m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0064116/?ref_=chttp_t_52"
+    },
+    {
+        "title": "Django Livre",
+        "year": "2012",
+        "duration": "2h 45m",
+        "pg": "16",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt1853728/?ref_=chttp_t_53"
+    },
+    {
+        "title": "Luzes da Cidade",
+        "year": "1931",
+        "duration": "1h 27m",
+        "pg": "Livre",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt0021749/?ref_=chttp_t_54"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "duration": "2h 27m",
+        "pg": "16",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0078788/?ref_=chttp_t_55"
+    },
+    {
+        "title": "Duna: Parte 2",
+        "year": "2024",
+        "duration": "2h 46m",
+        "pg": "14",
+        "rating": "8,5",
+        "url": "https://www.imdb.com/pt/title/tt15239678/?ref_=chttp_t_56"
+    },
+    {
+        "title": "WALL·E",
+        "year": "2008",
+        "duration": "1h 38m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0910970/?ref_=chttp_t_57"
+    },
+    {
+        "title": "Amnésia",
+        "year": "2000",
+        "duration": "1h 53m",
+        "pg": "16",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0209144/?ref_=chttp_t_58"
+    },
+    {
+        "title": "Os Caçadores da Arca Perdida",
+        "year": "1981",
+        "duration": "1h 55m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0082971/?ref_=chttp_t_59"
+    },
+    {
+        "title": "A Vida dos Outros",
+        "year": "2006",
+        "duration": "2h 17m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0405094/?ref_=chttp_t_60"
+    },
+    {
+        "title": "Vingadores: Guerra Infinita",
+        "year": "2018",
+        "duration": "2h 29m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt4154756/?ref_=chttp_t_61"
+    },
+    {
+        "title": "Crepúsculo dos Deuses",
+        "year": "1950",
+        "duration": "1h 50m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0043014/?ref_=chttp_t_62"
+    },
+    {
+        "title": "Homem-Aranha: No Aranhaverso",
+        "year": "2018",
+        "duration": "1h 57m",
+        "pg": "10",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt4633694/?ref_=chttp_t_63"
+    },
+    {
+        "title": "Testemunha de Acusação",
+        "year": "1957",
+        "duration": "1h 56m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0051201/?ref_=chttp_t_64"
+    },
+    {
+        "title": "Glória Feita de Sangue",
+        "year": "1957",
+        "duration": "1h 28m",
+        "pg": "14",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0050825/?ref_=chttp_t_65"
+    },
+    {
+        "title": "O Iluminado",
+        "year": "1980",
+        "duration": "2h 26m",
+        "pg": "16",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0081505/?ref_=chttp_t_66"
+    },
+    {
+        "title": "O Grande Ditador",
+        "year": "1940",
+        "duration": "2h 5m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0032553/?ref_=chttp_t_67"
+    },
+    {
+        "title": "Repetente",
+        "year": "2023",
+        "duration": "2h 27m",
+        "pg": "10",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt23849204/?ref_=chttp_t_68"
+    },
+    {
+        "title": "Bastardos Inglórios",
+        "year": "2009",
+        "duration": "2h 33m",
+        "pg": "18",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0361748/?ref_=chttp_t_69"
+    },
+    {
+        "title": "Aliens: O Resgate",
+        "year": "1986",
+        "duration": "2h 17m",
+        "pg": "14",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0090605/?ref_=chttp_t_70"
+    },
+    {
+        "title": "Batman: O Cavaleiro das Trevas Ressurge",
+        "year": "2012",
+        "duration": "2h 44m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt1345836/?ref_=chttp_t_71"
+    },
+    {
+        "title": "Viva: A Vida é uma Festa",
+        "year": "2017",
+        "duration": "1h 45m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt2380307/?ref_=chttp_t_72"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "duration": "2h 40m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0086879/?ref_=chttp_t_73"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "duration": "1h 21m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0114709/?ref_=chttp_t_74"
+    },
+    {
+        "title": "Vingadores: Ultimato",
+        "year": "2019",
+        "duration": "3h 1m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt4154796/?ref_=chttp_t_75"
+    },
+    {
+        "title": "Gênio Indomável",
+        "year": "1997",
+        "duration": "2h 6m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0119217/?ref_=chttp_t_76"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "duration": "2h",
+        "pg": "16",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0364569/?ref_=chttp_t_77"
+    },
+    {
+        "title": "Dr. Fantástico",
+        "year": "1964",
+        "duration": "1h 35m",
+        "pg": "10",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0057012/?ref_=chttp_t_78"
+    },
+    {
+        "title": "O Barco: Inferno no Mar",
+        "year": "1981",
+        "duration": "2h 29m",
+        "pg": "14",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0082096/?ref_=chttp_t_79"
+    },
+    {
+        "title": "Coração Valente",
+        "year": "1995",
+        "duration": "2h 58m",
+        "pg": "16",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0112573/?ref_=chttp_t_80"
+    },
+    {
+        "title": "Beleza Americana",
+        "year": "1999",
+        "duration": "2h 2m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0169547/?ref_=chttp_t_81"
+    },
+    {
+        "title": "Céu e Inferno",
+        "year": "1963",
+        "duration": "2h 23m",
+        "pg": "Not Rated",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt0057565/?ref_=chttp_t_82"
+    },
+    {
+        "title": "Princesa Mononoke",
+        "year": "1997",
+        "duration": "2h 13m",
+        "pg": "12",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0119698/?ref_=chttp_t_83"
+    },
+    {
+        "title": "Your Name",
+        "year": "2016",
+        "duration": "1h 46m",
+        "pg": "Livre",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt5311514/?ref_=chttp_t_84"
+    },
+    {
+        "title": "3 Idiotas",
+        "year": "2009",
+        "duration": "2h 50m",
+        "pg": "12",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt1187043/?ref_=chttp_t_85"
+    },
+    {
+        "title": "Coringa",
+        "year": "2019",
+        "duration": "2h 2m",
+        "pg": "16",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt7286456/?ref_=chttp_t_86"
+    },
+    {
+        "title": "Era uma Vez na América",
+        "year": "1984",
+        "duration": "3h 49m",
+        "pg": "18",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0087843/?ref_=chttp_t_87"
+    },
+    {
+        "title": "Cafarnaum",
+        "year": "2018",
+        "duration": "2h 6m",
+        "pg": "16",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt8267604/?ref_=chttp_t_88"
+    },
+    {
+        "title": "Cantando na Chuva",
+        "year": "1952",
+        "duration": "1h 43m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0045152/?ref_=chttp_t_89"
+    },
+    {
+        "title": "Vá e Veja",
+        "year": "1985",
+        "duration": "2h 22m",
+        "pg": "18",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0091251/?ref_=chttp_t_90"
+    },
+    {
+        "title": "Réquiem para um Sonho",
+        "year": "2000",
+        "duration": "1h 42m",
+        "pg": "18",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0180093/?ref_=chttp_t_91"
+    },
+    {
+        "title": "Star Wars: Episódio VI - O Retorno de Jedi",
+        "year": "1983",
+        "duration": "2h 11m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0086190/?ref_=chttp_t_92"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "duration": "1h 43m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0435761/?ref_=chttp_t_93"
+    },
+    {
+        "title": "A Caça",
+        "year": "2012",
+        "duration": "1h 55m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt2106476/?ref_=chttp_t_94"
+    },
+    {
+        "title": "Viver",
+        "year": "1952",
+        "duration": "2h 23m",
+        "pg": "Not Rated",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0044741/?ref_=chttp_t_95"
+    },
+    {
+        "title": "Brilho Eterno de uma Mente sem Lembranças",
+        "year": "2004",
+        "duration": "1h 48m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0338013/?ref_=chttp_t_96"
+    },
+    {
+        "title": "2001: Uma Odisséia no Espaço",
+        "year": "1968",
+        "duration": "2h 29m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0062622/?ref_=chttp_t_97"
+    },
+    {
+        "title": "Incêndios",
+        "year": "2010",
+        "duration": "2h 11m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt1255953/?ref_=chttp_t_98"
+    },
+    {
+        "title": "Cães de Aluguel",
+        "year": "1992",
+        "duration": "1h 39m",
+        "pg": "18",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0105236/?ref_=chttp_t_99"
+    },
+    {
+        "title": "Se Meu Apartamento Falasse",
+        "year": "1960",
+        "duration": "2h 5m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0053604/?ref_=chttp_t_100"
+    },
+    {
+        "title": "Hababam Sinifi Sinifta Kaldi",
+        "year": "1975",
+        "duration": "1h 35m",
+        "pg": "N/A",
+        "rating": "8,7",
+        "url": "https://www.imdb.com/pt/title/tt0252488/?ref_=chttp_t_101"
+    },
+    {
+        "title": "Lawrence da Arábia",
+        "year": "1962",
+        "duration": "3h 47m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0056172/?ref_=chttp_t_102"
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "duration": "2h 50m",
+        "pg": "18",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0086250/?ref_=chttp_t_103"
+    },
+    {
+        "title": "Pacto de Sangue",
+        "year": "1944",
+        "duration": "1h 47m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0036775/?ref_=chttp_t_104"
+    },
+    {
+        "title": "Fogo Contra Fogo",
+        "year": "1995",
+        "duration": "2h 50m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0113277/?ref_=chttp_t_105"
+    },
+    {
+        "title": "Intriga Internacional",
+        "year": "1959",
+        "duration": "2h 16m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0053125/?ref_=chttp_t_106"
+    },
+    {
+        "title": "Up: Altas Aventuras",
+        "year": "2009",
+        "duration": "1h 36m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt1049413/?ref_=chttp_t_107"
+    },
+    {
+        "title": "Cidadão Kane",
+        "year": "1941",
+        "duration": "1h 59m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0033467/?ref_=chttp_t_108"
+    },
+    {
+        "title": "M, o Vampiro de Dusseldorf",
+        "year": "1931",
+        "duration": "1h 57m",
+        "pg": "12",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0022100/?ref_=chttp_t_109"
+    },
+    {
+        "title": "Nascido para Matar",
+        "year": "1987",
+        "duration": "1h 56m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0093058/?ref_=chttp_t_110"
+    },
+    {
+        "title": "Um Corpo que Cai",
+        "year": "1958",
+        "duration": "2h 8m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0052357/?ref_=chttp_t_111"
+    },
+    {
+        "title": "O Fabuloso Destino de Amélie Poulain",
+        "year": "2001",
+        "duration": "2h 2m",
+        "pg": "14",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0211915/?ref_=chttp_t_112"
+    },
+    {
+        "title": "A Separação",
+        "year": "2011",
+        "duration": "2h 3m",
+        "pg": "12",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt1832382/?ref_=chttp_t_113"
+    },
+    {
+        "title": "Como Estrelas na Terra",
+        "year": "2007",
+        "duration": "2h 42m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0986264/?ref_=chttp_t_114"
+    },
+    {
+        "title": "O Sol é para Todos",
+        "year": "1962",
+        "duration": "2h 9m",
+        "pg": "12",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0056592/?ref_=chttp_t_115"
+    },
+    {
+        "title": "Duro de Matar",
+        "year": "1988",
+        "duration": "2h 12m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0095016/?ref_=chttp_t_116"
+    },
+    {
+        "title": "Laranja Mecânica",
+        "year": "1971",
+        "duration": "2h 16m",
+        "pg": "(Banned)",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0066921/?ref_=chttp_t_117"
+    },
+    {
+        "title": "Golpe de Mestre",
+        "year": "1973",
+        "duration": "2h 9m",
+        "pg": "18",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0070735/?ref_=chttp_t_118"
+    },
+    {
+        "title": "Indiana Jones e a Última Cruzada",
+        "year": "1989",
+        "duration": "2h 7m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0097576/?ref_=chttp_t_119"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "duration": "3h",
+        "pg": "16",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt15398776/?ref_=chttp_t_120"
+    },
+    {
+        "title": "Metrópolis",
+        "year": "1927",
+        "duration": "2h 33m",
+        "pg": "Livre",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0017136/?ref_=chttp_t_121"
+    },
+    {
+        "title": "Snatch - Porcos e Diamantes",
+        "year": "2000",
+        "duration": "1h 44m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0208092/?ref_=chttp_t_122"
+    },
+    {
+        "title": "1917",
+        "year": "2019",
+        "duration": "1h 59m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt8579674/?ref_=chttp_t_123"
+    },
+    {
+        "title": "Los Angeles: Cidade Proibida",
+        "year": "1997",
+        "duration": "2h 18m",
+        "pg": "18",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0119488/?ref_=chttp_t_124"
+    },
+    {
+        "title": "Ladrões de Bicicletas",
+        "year": "1948",
+        "duration": "1h 29m",
+        "pg": "10",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0040522/?ref_=chttp_t_125"
+    },
+    {
+        "title": "A Queda! As Últimas Horas de Hitler",
+        "year": "2004",
+        "duration": "2h 36m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0363163/?ref_=chttp_t_126"
+    },
+    {
+        "title": "Dangal",
+        "year": "2016",
+        "duration": "2h 41m",
+        "pg": "10",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt5074352/?ref_=chttp_t_127"
+    },
+    {
+        "title": "O Lobo de Wall Street",
+        "year": "2013",
+        "duration": "3h",
+        "pg": "18",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0993846/?ref_=chttp_t_128"
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "duration": "2h 40m",
+        "pg": "12",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt8503618/?ref_=chttp_t_129"
+    },
+    {
+        "title": "Taxi Driver: Motorista de Táxi",
+        "year": "1976",
+        "duration": "1h 54m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0075314/?ref_=chttp_t_130"
+    },
+    {
+        "title": "Green Book: O Guia",
+        "year": "2018",
+        "duration": "2h 10m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt6966692/?ref_=chttp_t_131"
+    },
+    {
+        "title": "Batman Begins",
+        "year": "2005",
+        "duration": "2h 20m",
+        "pg": "10",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0372784/?ref_=chttp_t_132"
+    },
+    {
+        "title": "O Show de Truman: O Show da Vida",
+        "year": "1998",
+        "duration": "1h 43m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0120382/?ref_=chttp_t_133"
+    },
+    {
+        "title": "Por uns Dólares a Mais",
+        "year": "1965",
+        "duration": "2h 12m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0059578/?ref_=chttp_t_134"
+    },
+    {
+        "title": "Julgamento em Nuremberg",
+        "year": "1961",
+        "duration": "2h 59m",
+        "pg": "Approved",
+        "rating": "8,3",
+        "url": "https://www.imdb.com/pt/title/tt0055031/?ref_=chttp_t_135"
+    },
+    {
+        "title": "Quanto Mais Quente Melhor",
+        "year": "1959",
+        "duration": "2h 1m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0053291/?ref_=chttp_t_136"
+    },
+    {
+        "title": "Ilha do Medo",
+        "year": "2010",
+        "duration": "2h 18m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt1130884/?ref_=chttp_t_137"
+    },
+    {
+        "title": "O Garoto",
+        "year": "1921",
+        "duration": "1h 8m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0012349/?ref_=chttp_t_138"
+    },
+    {
+        "title": "Meu Pai",
+        "year": "2020",
+        "duration": "1h 37m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt10272386/?ref_=chttp_t_139"
+    },
+    {
+        "title": "A Malvada",
+        "year": "1950",
+        "duration": "2h 18m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0042192/?ref_=chttp_t_140"
+    },
+    {
+        "title": "Jurassic Park: O Parque dos Dinossauros",
+        "year": "1993",
+        "duration": "2h 7m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0107290/?ref_=chttp_t_141"
+    },
+    {
+        "title": "Sangue Negro",
+        "year": "2007",
+        "duration": "2h 38m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0469494/?ref_=chttp_t_142"
+    },
+    {
+        "title": "O Sexto Sentido",
+        "year": "1999",
+        "duration": "1h 47m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0167404/?ref_=chttp_t_143"
+    },
+    {
+        "title": "Cassino",
+        "year": "1995",
+        "duration": "2h 58m",
+        "pg": "18",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0112641/?ref_=chttp_t_144"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "duration": "2h 40m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0089881/?ref_=chttp_t_145"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "duration": "2h 10m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt1745960/?ref_=chttp_t_146"
+    },
+    {
+        "title": "Onde os Fracos Não Têm Vez",
+        "year": "2007",
+        "duration": "2h 2m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0477348/?ref_=chttp_t_147"
+    },
+    {
+        "title": "O Enigma de Outro Mundo",
+        "year": "1982",
+        "duration": "1h 49m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0084787/?ref_=chttp_t_148"
+    },
+    {
+        "title": "O Labirinto do Fauno",
+        "year": "2006",
+        "duration": "1h 58m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0457430/?ref_=chttp_t_149"
+    },
+    {
+        "title": "Os Imperdoáveis",
+        "year": "1992",
+        "duration": "2h 10m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0105695/?ref_=chttp_t_150"
+    },
+    {
+        "title": "Kill Bill: Volume 1",
+        "year": "2003",
+        "duration": "1h 51m",
+        "pg": "18",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0266697/?ref_=chttp_t_151"
+    },
+    {
+        "title": "Uma Mente Brilhante",
+        "year": "2001",
+        "duration": "2h 15m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0268978/?ref_=chttp_t_152"
+    },
+    {
+        "title": "O Tesouro da Sierra Madre",
+        "year": "1948",
+        "duration": "2h 6m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0040897/?ref_=chttp_t_153"
+    },
+    {
+        "title": "Os Suspeitos",
+        "year": "2013",
+        "duration": "2h 33m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt1392214/?ref_=chttp_t_154"
+    },
+    {
+        "title": "Yojimbo, o Guarda-Costas",
+        "year": "1961",
+        "duration": "1h 50m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0055630/?ref_=chttp_t_155"
+    },
+    {
+        "title": "Procurando Nemo",
+        "year": "2003",
+        "duration": "1h 40m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0266543/?ref_=chttp_t_156"
+    },
+    {
+        "title": "O Castelo Animado",
+        "year": "2004",
+        "duration": "1h 59m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0347149/?ref_=chttp_t_157"
+    },
+    {
+        "title": "Fugindo do Inferno",
+        "year": "1963",
+        "duration": "2h 52m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0057115/?ref_=chttp_t_158"
+    },
+    {
+        "title": "Monty Python em Busca do Cálice Sagrado",
+        "year": "1975",
+        "duration": "1h 31m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0071853/?ref_=chttp_t_159"
+    },
+    {
+        "title": "O Homem Elefante",
+        "year": "1980",
+        "duration": "2h 4m",
+        "pg": "10",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0080678/?ref_=chttp_t_160"
+    },
+    {
+        "title": "Disque M para Matar",
+        "year": "1954",
+        "duration": "1h 45m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0046912/?ref_=chttp_t_161"
+    },
+    {
+        "title": "Klaus",
+        "year": "2019",
+        "duration": "1h 36m",
+        "pg": "10",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt4729430/?ref_=chttp_t_162"
+    },
+    {
+        "title": "...E o Vento Levou",
+        "year": "1939",
+        "duration": "3h 58m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0031381/?ref_=chttp_t_163"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "duration": "2h 10m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0071315/?ref_=chttp_t_164"
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "duration": "1h 28m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0042876/?ref_=chttp_t_165"
+    },
+    {
+        "title": "O Segredo dos Seus Olhos",
+        "year": "2009",
+        "duration": "2h 9m",
+        "pg": "16",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt1305806/?ref_=chttp_t_166"
+    },
+    {
+        "title": "Jogos, Trapaças e Dois Canos Fumegantes",
+        "year": "1998",
+        "duration": "1h 47m",
+        "pg": "18",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0120735/?ref_=chttp_t_167"
+    },
+    {
+        "title": "V de Vingança",
+        "year": "2005",
+        "duration": "2h 12m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0434409/?ref_=chttp_t_168"
+    },
+    {
+        "title": "Divertida Mente",
+        "year": "2015",
+        "duration": "1h 35m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt2096673/?ref_=chttp_t_169"
+    },
+    {
+        "title": "Três Anúncios para um Crime",
+        "year": "2017",
+        "duration": "1h 55m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt5027774/?ref_=chttp_t_170"
+    },
+    {
+        "title": "A Ponte do Rio Kwai",
+        "year": "1957",
+        "duration": "2h 41m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0050212/?ref_=chttp_t_171"
+    },
+    {
+        "title": "Prenda-Me se for Capaz",
+        "year": "2002",
+        "duration": "2h 21m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0264464/?ref_=chttp_t_172"
+    },
+    {
+        "title": "Trainspotting: Sem Limites",
+        "year": "1996",
+        "duration": "1h 33m",
+        "pg": "18",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0117951/?ref_=chttp_t_173"
+    },
+    {
+        "title": "Touro Indomável",
+        "year": "1980",
+        "duration": "2h 9m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0081398/?ref_=chttp_t_174"
+    },
+    {
+        "title": "Robô Selvagem",
+        "year": "2024",
+        "duration": "1h 42m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt29623480/?ref_=chttp_t_175"
+    },
+    {
+        "title": "Fargo: Uma Comédia de Erros",
+        "year": "1996",
+        "duration": "1h 38m",
+        "pg": "18",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0116282/?ref_=chttp_t_176"
+    },
+    {
+        "title": "Guerreiro",
+        "year": "2011",
+        "duration": "2h 20m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1291584/?ref_=chttp_t_177"
+    },
+    {
+        "title": "Harry Potter e as Relíquias da Morte - Parte 2",
+        "year": "2011",
+        "duration": "2h 10m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1201607/?ref_=chttp_t_178"
+    },
+    {
+        "title": "Gran Torino",
+        "year": "2008",
+        "duration": "1h 56m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1205489/?ref_=chttp_t_179"
+    },
+    {
+        "title": "Menina de Ouro",
+        "year": "2004",
+        "duration": "2h 12m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0405159/?ref_=chttp_t_180"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "duration": "3h 32m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0052618/?ref_=chttp_t_181"
+    },
+    {
+        "title": "Mad Max: Estrada da Fúria",
+        "year": "2015",
+        "duration": "2h",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1392190/?ref_=chttp_t_182"
+    },
+    {
+        "title": "Meu Amigo Totoro",
+        "year": "1988",
+        "duration": "1h 26m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0096283/?ref_=chttp_t_183"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "duration": "3h 5m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0072684/?ref_=chttp_t_184"
+    },
+    {
+        "title": "Sociedade dos Poetas Mortos",
+        "year": "1989",
+        "duration": "2h 8m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0097165/?ref_=chttp_t_185"
+    },
+    {
+        "title": "Homem-Aranha: Sem Volta para Casa",
+        "year": "2021",
+        "duration": "2h 28m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt10872600/?ref_=chttp_t_186"
+    },
+    {
+        "title": "Filhos do Paraíso",
+        "year": "1997",
+        "duration": "1h 29m",
+        "pg": "Livre",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0118849/?ref_=chttp_t_187"
+    },
+    {
+        "title": "12 Anos de Escravidão",
+        "year": "2013",
+        "duration": "2h 14m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt2024544/?ref_=chttp_t_188"
+    },
+    {
+        "title": "Até o Último Homem",
+        "year": "2016",
+        "duration": "2h 19m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt2119532/?ref_=chttp_t_189"
+    },
+    {
+        "title": "O Grande Hotel Budapeste",
+        "year": "2014",
+        "duration": "1h 39m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt2278388/?ref_=chttp_t_190"
+    },
+    {
+        "title": "Antes do Amanhecer",
+        "year": "1995",
+        "duration": "1h 41m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0112471/?ref_=chttp_t_191"
+    },
+    {
+        "title": "Blade Runner: O Caçador de Andróides",
+        "year": "1982",
+        "duration": "1h 57m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0083658/?ref_=chttp_t_192"
+    },
+    {
+        "title": "Memórias de um Assassino",
+        "year": "2003",
+        "duration": "2h 11m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0353969/?ref_=chttp_t_193"
+    },
+    {
+        "title": "Garota Exemplar",
+        "year": "2014",
+        "duration": "2h 29m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt2267998/?ref_=chttp_t_194"
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "duration": "1h 51m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0382932/?ref_=chttp_t_195"
+    },
+    {
+        "title": "Monstros S.A.",
+        "year": "2001",
+        "duration": "1h 32m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0198781/?ref_=chttp_t_196"
+    },
+    {
+        "title": "Em Nome do Pai",
+        "year": "1993",
+        "duration": "2h 13m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0107207/?ref_=chttp_t_197"
+    },
+    {
+        "title": "Como Treinar o Seu Dragão",
+        "year": "2010",
+        "duration": "1h 38m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0892769/?ref_=chttp_t_198"
+    },
+    {
+        "title": "Relatos Selvagens",
+        "year": "2014",
+        "duration": "2h 2m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt3011894/?ref_=chttp_t_199"
+    },
+    {
+        "title": "Em Busca do Ouro",
+        "year": "1925",
+        "duration": "1h 35m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0015864/?ref_=chttp_t_200"
+    },
+    {
+        "title": "Bancando o Águia",
+        "year": "1924",
+        "duration": "45m",
+        "pg": "Passed",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0015324/?ref_=chttp_t_201"
+    },
+    {
+        "title": "Tubarão",
+        "year": "1975",
+        "duration": "2h 4m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0073195/?ref_=chttp_t_202"
+    },
+    {
+        "title": "Mary e Max - Uma Amizade Diferente",
+        "year": "2009",
+        "duration": "1h 32m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0978762/?ref_=chttp_t_203"
+    },
+    {
+        "title": "Ford vs. Ferrari",
+        "year": "2019",
+        "duration": "2h 32m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1950186/?ref_=chttp_t_204"
+    },
+    {
+        "title": "O Franco Atirador",
+        "year": "1978",
+        "duration": "3h 3m",
+        "pg": "18",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0077416/?ref_=chttp_t_205"
+    },
+    {
+        "title": "A General",
+        "year": "1926",
+        "duration": "1h 18m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0017925/?ref_=chttp_t_206"
+    },
+    {
+        "title": "O Salário do Medo",
+        "year": "1953",
+        "duration": "2h 36m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0046268/?ref_=chttp_t_207"
+    },
+    {
+        "title": "A Mulher Faz o Homem",
+        "year": "1939",
+        "duration": "2h 9m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0031679/?ref_=chttp_t_208"
+    },
+    {
+        "title": "Sindicato de Ladrões",
+        "year": "1954",
+        "duration": "1h 48m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0047296/?ref_=chttp_t_209"
+    },
+    {
+        "title": "Morangos Silvestres",
+        "year": "1957",
+        "duration": "1h 32m",
+        "pg": "10",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0050986/?ref_=chttp_t_210"
+    },
+    {
+        "title": "Logan",
+        "year": "2017",
+        "duration": "2h 17m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt3315342/?ref_=chttp_t_211"
+    },
+    {
+        "title": "Rocky, um Lutador",
+        "year": "1976",
+        "duration": "2h",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0075148/?ref_=chttp_t_212"
+    },
+    {
+        "title": "O 3º Homem",
+        "year": "1949",
+        "duration": "1h 44m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0041959/?ref_=chttp_t_213"
+    },
+    {
+        "title": "Era uma Vez em Tóquio",
+        "year": "1953",
+        "duration": "2h 17m",
+        "pg": "10",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0046438/?ref_=chttp_t_214"
+    },
+    {
+        "title": "Spotlight: Segredos Revelados",
+        "year": "2015",
+        "duration": "2h 9m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1895587/?ref_=chttp_t_215"
+    },
+    {
+        "title": "O Grande Lebowski",
+        "year": "1998",
+        "duration": "1h 57m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0118715/?ref_=chttp_t_216"
+    },
+    {
+        "title": "O Exterminador do Futuro",
+        "year": "1984",
+        "duration": "1h 47m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0088247/?ref_=chttp_t_217"
+    },
+    {
+        "title": "O Mistério da Lixeira",
+        "year": "2024",
+        "duration": "2h 21m",
+        "pg": "N/A",
+        "rating": "8,4",
+        "url": "https://www.imdb.com/pt/title/tt26548265/?ref_=chttp_t_218"
+    },
+    {
+        "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+        "year": "2003",
+        "duration": "2h 23m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0325980/?ref_=chttp_t_219"
+    },
+    {
+        "title": "O Sétimo Selo",
+        "year": "1957",
+        "duration": "1h 36m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0050976/?ref_=chttp_t_220"
+    },
+    {
+        "title": "O Quarto de Jack",
+        "year": "2015",
+        "duration": "1h 58m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt3170832/?ref_=chttp_t_221"
+    },
+    {
+        "title": "O Ódio",
+        "year": "1995",
+        "duration": "1h 38m",
+        "pg": "16",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0113247/?ref_=chttp_t_222"
+    },
+    {
+        "title": "Jai Bhim",
+        "year": "2021",
+        "duration": "2h 44m",
+        "pg": "Approved",
+        "rating": "8,6",
+        "url": "https://www.imdb.com/pt/title/tt15097216/?ref_=chttp_t_223"
+    },
+    {
+        "title": "Hotel Ruanda",
+        "year": "2004",
+        "duration": "2h 1m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0395169/?ref_=chttp_t_224"
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "duration": "2h",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0091763/?ref_=chttp_t_225"
+    },
+    {
+        "title": "Os Melhores Anos de Nossa Vida",
+        "year": "1946",
+        "duration": "2h 50m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0036868/?ref_=chttp_t_226"
+    },
+    {
+        "title": "Antes do Pôr do Sol",
+        "year": "2004",
+        "duration": "1h 20m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0381681/?ref_=chttp_t_227"
+    },
+    {
+        "title": "O Exorcista",
+        "year": "1973",
+        "duration": "2h 2m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0070047/?ref_=chttp_t_228"
+    },
+    {
+        "title": "A Noviça Rebelde",
+        "year": "1965",
+        "duration": "2h 52m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0059742/?ref_=chttp_t_229"
+    },
+    {
+        "title": "O Martírio de Joana D'Arc",
+        "year": "1928",
+        "duration": "1h 50m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0019254/?ref_=chttp_t_230"
+    },
+    {
+        "title": "Os Incríveis",
+        "year": "2004",
+        "duration": "1h 55m",
+        "pg": "Livre",
+        "rating": "8,0",
+        "url": "https://www.imdb.com/pt/title/tt0317705/?ref_=chttp_t_231"
+    },
+    {
+        "title": "O Mágico de Oz",
+        "year": "1939",
+        "duration": "1h 42m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0032138/?ref_=chttp_t_232"
+    },
+    {
+        "title": "Sempre ao Seu Lado",
+        "year": "2009",
+        "duration": "1h 33m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1028532/?ref_=chttp_t_233"
+    },
+    {
+        "title": "Rush: No Limite da Emoção",
+        "year": "2013",
+        "duration": "2h 3m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1979320/?ref_=chttp_t_234"
+    },
+    {
+        "title": "Conta Comigo",
+        "year": "1986",
+        "duration": "1h 29m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0092005/?ref_=chttp_t_235"
+    },
+    {
+        "title": "Ainda Estou Aqui",
+        "year": "2024",
+        "duration": "2h 17m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt14961016/?ref_=chttp_t_236"
+    },
+    {
+        "title": "Meu Pai e Meu Filho",
+        "year": "2005",
+        "duration": "1h 52m",
+        "pg": "Not Rated",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt0476735/?ref_=chttp_t_237"
+    },
+    {
+        "title": "Rede de Intrigas",
+        "year": "1976",
+        "duration": "2h 1m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0074958/?ref_=chttp_t_238"
+    },
+    {
+        "title": "O Gigante de Ferro",
+        "year": "1999",
+        "duration": "1h 26m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0129167/?ref_=chttp_t_239"
+    },
+    {
+        "title": "A Criada",
+        "year": "2016",
+        "duration": "2h 25m",
+        "pg": "18",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt4016934/?ref_=chttp_t_240"
+    },
+    {
+        "title": "A Voz do Silêncio",
+        "year": "2016",
+        "duration": "2h 10m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt5323662/?ref_=chttp_t_241"
+    },
+    {
+        "title": "A Batalha de Argel",
+        "year": "1966",
+        "duration": "2h 1m",
+        "pg": "14",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0058946/?ref_=chttp_t_242"
+    },
+    {
+        "title": "Ser ou Não Ser",
+        "year": "1942",
+        "duration": "1h 39m",
+        "pg": "Livre",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0035446/?ref_=chttp_t_243"
+    },
+    {
+        "title": "As Vinhas da Ira",
+        "year": "1940",
+        "duration": "2h 9m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt0032551/?ref_=chttp_t_244"
+    },
+    {
+        "title": "Na Natureza Selvagem",
+        "year": "2007",
+        "duration": "2h 28m",
+        "pg": "12",
+        "rating": "8,0",
+        "url": "https://www.imdb.com/pt/title/tt0758758/?ref_=chttp_t_245"
+    },
+    {
+        "title": "Feitiço do Tempo",
+        "year": "1993",
+        "duration": "1h 41m",
+        "pg": "12",
+        "rating": "8,0",
+        "url": "https://www.imdb.com/pt/title/tt0107048/?ref_=chttp_t_246"
+    },
+    {
+        "title": "Histórias Cruzadas",
+        "year": "2011",
+        "duration": "2h 26m",
+        "pg": "12",
+        "rating": "8,1",
+        "url": "https://www.imdb.com/pt/title/tt1454029/?ref_=chttp_t_247"
+    },
+    {
+        "title": "Amores Brutos",
+        "year": "2000",
+        "duration": "2h 34m",
+        "pg": "16",
+        "rating": "8,0",
+        "url": "https://www.imdb.com/pt/title/tt0245712/?ref_=chttp_t_248"
+    },
+    {
+        "title": "Assassinato às Cegas",
+        "year": "2018",
+        "duration": "2h 19m",
+        "pg": "12",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt8108198/?ref_=chttp_t_249"
+    },
+    {
+        "title": "Demon Slayer: Mugen Train - O Filme",
+        "year": "2020",
+        "duration": "1h 57m",
+        "pg": "14",
+        "rating": "8,2",
+        "url": "https://www.imdb.com/pt/title/tt11032374/?ref_=chttp_t_250"
+    }
+]
